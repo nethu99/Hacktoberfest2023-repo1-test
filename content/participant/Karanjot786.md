@@ -1,19 +1,23 @@
 ---
-# Nethmini Tharuka
+# Karanjot Singh Dulay
 
 ### Location
 
-Sri Lanka
+Punjab/India
 
 ### Interests
 
 JS
 Python
-PHP
-Reactjs/Mernstack
+Django
+Reactjs
 Nextjs
  
+### Projects
+
+
+- [coderscore](https://github.com/Karanjot786/coderscore)
 
 ### Profile Link
 
-Go to profile [Karanjot786](https://github.com/nethu99)
+Go to profile [Karanjot786](https://github.com/Karanjot786/)
